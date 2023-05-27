@@ -88,7 +88,7 @@ We have migrated all agent functionality from LangChain Typescript to LangChain 
 
 1. Set up your .env file
 
-   - Duplicate `.env.example` to `.env`
+   - Duplicate `env.example` to `.env`
 
 1. Run the project
 
